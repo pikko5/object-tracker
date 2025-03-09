@@ -36,7 +36,7 @@ curl -X 'POST'   'http://localhost:8000/api/config/area'   -H 'Content-Type: app
 
 Sesuai dengan Challenge 1, desain database untuk program ini adalah:
 
-| First Header  | Second Header |
+| Data Name  | Data Type |
 | ------------- | ------------- |
 | track_id | int  |
 | event  | varchar  |
