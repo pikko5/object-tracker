@@ -60,12 +60,12 @@ Salah satu live streaming spesifik yang digunakan adalah [NolKM Timur](https://c
 
 ## Feature Checklist
 
-[x] Desain Database: Sudah ditulis di Readme bagian Desain Database
-[x] Pengumpulan Dataset: Sudah dijelaskan pada bagian Pengumpulan Dataset
-[x] Object Detection & Tracking: Sudah dilakukan dengan menggunakan YOLO v8. Object tracking menggunakan bytetrack.
-[x] Counting & Polygon Area: People counting sudah diimplementasi dan region sudah dibuat bisa diubah sesuai input user
-[x] Integrasi API: Sudah dilakukan dengan FastAPI. Belum sempat integrasi menggunakan dashboard.
-[x] Deployment: Sudah dilakukan, namun belum sempat dilakukan containerization.
+- [x] Desain Database: Sudah ditulis di Readme bagian Desain Database
+- [x] Pengumpulan Dataset: Sudah dijelaskan pada bagian Pengumpulan Dataset
+- [x] Object Detection & Tracking: Sudah dilakukan dengan menggunakan YOLO v8. Object tracking menggunakan bytetrack.
+- [x] Counting & Polygon Area: People counting sudah diimplementasi dan region sudah dibuat bisa diubah sesuai input user
+- [x] Integrasi API: Sudah dilakukan dengan FastAPI. Belum sempat integrasi menggunakan dashboard.
+- [x] Deployment: Sudah dilakukan, namun belum sempat dilakukan containerization.
 
 
 
