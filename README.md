@@ -34,7 +34,7 @@ curl -X 'POST'   'http://localhost:8000/api/config/area'   -H 'Content-Type: app
 
 ## Database Design
 
-Sesuai dengan Challenge 1, desain database untuk program ini adalah:
+Desain database untuk program ini adalah:
 
 | Data Name  | Data Type |
 | ------------- | ------------- |
