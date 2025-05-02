@@ -52,12 +52,6 @@ data ini ditampilkan pada endpoint /api/stats/.
 
 Adapun juga program menampilkan jumlah total orang yang masuk dan keluar dari area region melalui live video feed.
 
-## Pengumpulan Dataset
-
-Video sumber diambil dari website https://cctv.jogjakota.go.id/home.
-
-Salah satu live streaming spesifik yang digunakan adalah [NolKM Timur](https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8)
-
 ## Feature Checklist
 
 - [x] Desain Database: Sudah ditulis di Readme bagian Desain Database
