@@ -4,6 +4,13 @@ Object Tracking using Yolov8 and OpenCV, served using FastAPI.
 
 ## How to Use
 
+***UPDATE***
+For streamlit, run:
+```
+streamlit run inference.py
+```
+and just upload the video
+
 First, run:
 
 ```
